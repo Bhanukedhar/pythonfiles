@@ -1,4 +1,5 @@
-a=10
+a=30
 b=20
-c=a+b
-print c
+c=79
+d=a+b
+print d
